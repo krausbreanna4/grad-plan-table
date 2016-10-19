@@ -40,3 +40,10 @@ tr:nth-child(even) {
 tfoot{
     color: #9631CD;
 }
+footer{
+    font-size: 75%;
+    font-style: italic;
+    font-family: Georgia, "times new roman", serif;
+    padding: 20px;
+    
+}
