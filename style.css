@@ -1,1 +1,42 @@
+nav li {
+    list-style-type: none;
+    display: inline;
+}
+nav a {
+    text-decoration: none;
+    padding-right: 10px;
+}
+body {
+    font-family: sans-serif;
+    padding: 10px 20px 15px 20px;
+    margin: auto;
+}
 
+h1 {
+    font-size: 60px;
+}
+table, th, td {
+    border: 1px solid #000000;
+}
+
+thead {
+    background-color: #5757AA;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+tr:nth-child(even) {
+    background-color: #DCDCDC;
+}
+
+.fall {
+    color: #5757AA;
+}
+
+.spring {
+    color: #5757AA;
+}
+
+tfoot{
+    color: #9631CD;
+}
